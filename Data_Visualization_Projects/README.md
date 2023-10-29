@@ -1,11 +1,11 @@
 # Data Science Projects Repository
-## Regression Projects
+## Data Viz Projects
 
-Welcome to my Data Science Projects repository! Here, you will find a curated collection of projects predominantly developed using Python and R.
+Welcome to the Data Visualization Projects repository! Here, you'll discover an assortment of projects that primarily employ Python, R, and other data visualization tools.
 
-This directory is dedicated to projects related to Econometrics and Regression analysis. Each file within this directory is focused on tackling regression problems using either R or Python.
+This directory is dedicated to projects centered around data visualization and analysis. Each file within this directory focuses on various data visualization problems and techniques using Python and R.
 
-Please be aware that this README file will be updated as needed to provide the latest information.
+Please note that this README file will be kept current and updated as necessary.
 
 ## How to Use the Projects
 
@@ -28,7 +28,11 @@ cd Regression_Projects
 jupyter lab
 ```
 All the projects are created using Jupyter Notebook. Alternatively, you can also open them in Google Colab by uploading the notebook.
-or Open the file in RStudio.
+ . or Open the file in RStudio.
+ . Or simply run the Python file using this command in the terminal:
+ ```bash
+ python file_name
+ ```
 
 6. If you encounter any missing libraries, you can install them using the following command:
 ```bash
