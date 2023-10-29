@@ -31,7 +31,7 @@ All the projects are created using Jupyter Notebook. Alternatively, you can also
  . or Open the file in RStudio.
  . Or simply run the Python file using this command in the terminal:
  ```bash
- python file_name
+ python <file_name>
  ```
 
 6. If you encounter any missing libraries, you can install them using the following command:
