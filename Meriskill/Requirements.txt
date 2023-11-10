@@ -1,0 +1,6 @@
+pandas
+numpy
+datetime
+matplotlib.pyplot
+seaborn
+plotly_express
