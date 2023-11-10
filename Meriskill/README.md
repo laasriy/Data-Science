@@ -52,16 +52,19 @@ Check for some more Transformations
 1. Open your preferred terminal or Git Bash in the directory of your choice.
    
 2. Copy and paste the following code to clone this repository: 
+
 `bash
 git clone https://github.com/laasriy/Data-Science.git
 `
 
 3. Navigate to the project you are interested in.
+
 `bash
 cd Meriskill/
 `
    
 4. To open any project, simply use the following command in your terminal: 
+
 `bash
 jupyter notebook
 `
@@ -69,6 +72,7 @@ jupyter notebook
 All the projects are created using Jupyter Notebook. Alternatively, you can also open them in Google Colab by uploading the notebook.
    
 5. If you encounter any missing libraries, you can install them using the following command: 
+
 `bash
 pip install + library_name
 `
