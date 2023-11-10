@@ -1,0 +1,7 @@
+see the sales per month and per time
+
+see the most time that people buy and the city that buys the most from this brand
+
+what drives the sales up is it quantity or price
+
+explain the dropping of month sales
