@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly-express
+datetime
+PIL
+wordcloud
+re
+unidecode
+sickit-learn
+Scipy
