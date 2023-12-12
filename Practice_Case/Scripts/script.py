@@ -27,7 +27,7 @@ from sklearn.naive_bayes import MultinomialNB
 
 
 # Importing the dataset
-d = pd.read_excel('Data/20210614 Ecommerce sales.xlsb')
+d = pd.read_excel(r'C:\Users\etulyon1\Desktop\Data-Science\Practice_Case\Data\20210614 Ecommerce sales.xlsb')
 
 
 # Elimination of missing data 
