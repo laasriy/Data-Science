@@ -15,7 +15,7 @@ The necessary libraries are in the file: 'requierements.txt'
 **PS 2:**
 You will find the output of the script file in Public/ directory
 
-## How ## How to Use the Projects
+## How to Use the Projects
 
 1. Open your preferred terminal or Git Bash in the directory of your choice.
    
