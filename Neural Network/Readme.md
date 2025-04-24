@@ -30,7 +30,7 @@ All implementations are accompanied by detailed mathematical explanations and vi
 
 ## 📚 Notebook Structure
 
-### `NN1 - Single Neuron Implementation`
+### `NN1 - Single Neuron Implementation` (Work in progress)
 - Biological inspiration for artificial neurons
 - Activation functions (Sigmoid, ReLU)
 - Forward propagation
@@ -38,14 +38,14 @@ All implementations are accompanied by detailed mathematical explanations and vi
 - Backpropagation basics
 - Training loop implementation
 
-### `NN2 - Multi-Layer Perceptron`
+### `NN2 - Multi-Layer Perceptron` (Not yet added)
 - Layer-wise architecture
 - Matrix operations for efficient computation
 - Hidden layers and depth concepts
 - Vanishing gradient problem
 - Weight initialization techniques
 
-### `NN3 - Deep Neural Networks`
+### `NN3 - Deep Neural Networks` (Not yet added)
 - Batch normalization
 - Dropout regularization
 - Advanced optimizers (Adam, RMSProp)
